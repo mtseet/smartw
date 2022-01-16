@@ -1,0 +1,154 @@
+.timericontext
+{
+	color:#ffffff;
+	font-size: 24px;
+	font-family: sans-serif;
+	margin-left:0px;
+	position:relative;
+	top:20px;
+}
+
+.timericon
+{
+	color:#ff0000!important;
+}
+
+.timermenu
+{
+	overflow-x: hidden;
+	overflow-y: hidden;
+	color:#000000;
+	background: #649bff;
+	width:200px;
+	height:200px;
+	display: none;
+}
+
+.stopwatch
+{
+	background:#00c6ff;
+	width:200px;
+	height:200px;
+	display: block;
+}
+
+.countdown
+{
+	background:#00c6ff;
+	width:200px;
+	height:200px;
+	display: block;
+}
+
+.timertext
+{
+	color:#ffffff;
+	font-size: 24px;
+	font-family: sans-serif;
+	margin-left:20%;
+	position:relative;
+	top:35%;
+}
+
+.stopwatchdialog
+{
+	background:#000000;
+	color:#00ff90;
+	width:200px;
+	height:200px;
+	display: none; 
+}
+
+.countdowndialog
+{
+	background:#000000;
+	color:#00ff90;
+	width:200px;
+	height:200px;
+	display: none; 
+}
+
+.stopwatchtext
+{
+	color:#ffffff;
+	font-family: sans-serif;
+    margin-left: 5%;
+    font-size: 40px;
+}
+
+.timergobutton
+{
+	color:#00ff90;
+	background: #000000;
+	font-family: sans-serif;
+	margin-top:10%;
+    margin-left: 80%;
+    font-size: 14px;
+    border:#00ff90 solid 1px;
+}
+
+.timergobutton:active
+{
+	color:#000000;
+	background: #00ff90;
+	font-family: sans-serif;
+    margin-top:11%;
+    margin-left: 80%;
+    font-size: 14px;
+    border:#00ff90 solid 1px;
+}
+
+.countdowninputfirst
+{
+	margin-left:20px;
+}
+
+.countdowninput
+{
+	color:#00ff90;
+	background: #000000;
+	font-family: sans-serif;
+    font-size: 14px;
+    width:20px
+}
+
+.timerresetbutton
+{
+	color:#00ff90;
+	background: #000000;
+	font-family: sans-serif;
+	margin-top:5%;
+    margin-left: 75%;
+    font-size: 14px;
+    border:#00ff90 solid 1px;
+
+}
+
+.timerresetbutton:active
+{
+	color:#000000;
+	background: #00ff90;
+	font-family: sans-serif;
+    margin-left: 75%;
+    font-size: 14px;
+    border:red solid 1px;
+
+}
+
+.countdowntext
+{
+	color:#ffffff;
+	font-family: sans-serif;
+    margin-left: 30%;
+    font-size: 40px;
+}
+
+.timerresetfinished
+{
+	color:#00ff90;
+	background: #000000;
+	font-family: sans-serif;
+	margin-top:20%;
+    margin-left: 5%;
+    font-size: 24px;
+}

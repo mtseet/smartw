@@ -1,0 +1,33 @@
+.clocktime
+{
+	background: #990000;
+	color: #ffffff;
+	font-size: 70;
+	font-weight: lighter;
+	font-family: sans-serif;
+	text-align:center;
+	position: relative;
+	top:20%;
+	left:5%;
+}
+
+.clockdate
+{
+	background: #990000;
+	color: #c0c0c0;
+	font-size: 14;
+	font-weight: lighter;
+	font-family: sans-serif;
+	position: relative;
+	top:25%;
+	left:60%;
+}
+
+
+.clock
+{
+	background: #990000;
+	width:200px;
+	height:200px;
+	display: block;
+}

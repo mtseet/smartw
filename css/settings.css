@@ -1,0 +1,35 @@
+.settingsicontext
+{
+	color:#ffffff;
+	font-size: 24px;
+	font-family: sans-serif;
+	margin-left:-10px;
+	position:relative;
+	top:20px;
+}
+
+.settingsicon
+{
+	color:#649bff!important;
+}
+
+
+.settingstitle
+{
+	color:#ffffff;
+	font-size: 14px;
+	font-family: sans-serif;
+	position:relative;
+	top:5px;
+}
+
+.settingsdesc
+{
+	color:#ffffff;
+	font-size: 10px;
+	font-family: sans-serif;
+	position:relative;
+	top:8px;
+}
+
+

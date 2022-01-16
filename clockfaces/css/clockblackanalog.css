@@ -1,0 +1,25 @@
+
+.clock
+{
+	background:#000000;
+	width:200px;
+	height:200px;
+	display: block;
+        color: white;
+}
+
+.clockcircle
+{
+        color: #00ffff;
+        display:none;
+}
+
+.clockhand { 
+        color: #ff00ff;
+        display:none;
+}
+
+.clockcanvas 
+{
+        margin-left: 10%;
+}
